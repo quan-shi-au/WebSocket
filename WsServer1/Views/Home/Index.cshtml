@@ -16,7 +16,12 @@
                 debugger;
 
                 $("#spanStatus").text("connecting");
-                ws = new WebSocket("ws://localhost:15296/api/WSChat");
+
+
+                //ws = new WebSocket("ws://localhost:15296/api/WSChat");
+
+                ws = new WebSocket("ws://" + window.location.host + "/api/WSChat");
+
                 ws.onopen = function () {
 
                     debugger;

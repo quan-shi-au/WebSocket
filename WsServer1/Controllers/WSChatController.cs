@@ -17,6 +17,7 @@ namespace WsServer1.Controllers
     {
         public HttpResponseMessage Get()
         {
+
             if (HttpContext.Current.IsWebSocketRequest)
             {
                 HttpContext.Current.AcceptWebSocketRequest(ProcessWSChat);

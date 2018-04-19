@@ -187,7 +187,6 @@ D:\GitHub\WebSocket\WsServer1\bin\Microsoft.AI.DependencyCollector.xml
 D:\GitHub\WebSocket\WsServer1\bin\Microsoft.AI.ServerTelemetryChannel.xml
 D:\GitHub\WebSocket\WsServer1\bin\Microsoft.AI.WindowsServer.xml
 D:\GitHub\WebSocket\WsServer1\bin\Microsoft.AI.Web.xml
-D:\GitHub\WebSocket\WsServer1\obj\Debug\WsServer1.csprojResolveAssemblyReference.cache
 D:\GitHub\WebSocket\WsServer1\obj\Debug\WsServer1.csproj.CoreCompileInputs.cache
 D:\GitHub\WebSocket\WsServer1\obj\Debug\WsServer1.csproj.CopyComplete
 D:\GitHub\WebSocket\WsServer1\obj\Debug\WsServer1.dll
